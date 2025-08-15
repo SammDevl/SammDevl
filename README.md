@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samueldipta@gmail.com**
 <p align="center">
-  <img src="beaches.gif" alt="animated" />
+  <img src="Beaches.gif" alt="animated" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
