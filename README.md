@@ -1,7 +1,7 @@
 <img src="krem simpel quote twitter header.png">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sammdevl&label=Profile%20views&color=0e75b6&style=flat" alt="sammdevl" /> </p>
-- 🌱 I’m currently learning *Python, Next.js, Express, postgreSQL, Prisma ORM*<br>
+- 🌱 I’m currently learning *Golang, Next.js, Express, postgreSQL, Prisma ORM*<br>
 - 📫 How to reach me *samueldipta@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
