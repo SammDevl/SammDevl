@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm Samuel Dipta Yogi Taruna</h1>
-<h3 align="center">A Junior Fullstack Web Developer from indonesia</h3>
+<img src="krem simpel quote twitter header.png">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sammdevl&label=Profile%20views&color=0e75b6&style=flat" alt="sammdevl" /> </p>
 - 🌱 I’m currently learning *Python, Next.js, Express, postgreSQL, Prisma ORM*<br>
