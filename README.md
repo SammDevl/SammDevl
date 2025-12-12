@@ -1,4 +1,4 @@
-<img src="SammDevl.png">
+<img src="SammDevl.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sammdevl&label=Profile%20views&color=0e75b6&style=flat" alt="sammdevl" /> </p>
 - 🌱 I’m currently learning *Golang, Next.js, Express, postgreSQL, Prisma ORM*<br>
 - 📫 How to reach me *samueldipta@gmail.com*
