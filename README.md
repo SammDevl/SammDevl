@@ -3,8 +3,8 @@
 
 <p align="right"><img align="right" src="Beaches.gif" alt="animated" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sammdevl&label=Profile%20views&color=0e75b6&style=flat" alt="sammdevl" /> </p>
-- 🌱 I’m currently learning **Python, Next.js, Springboot, Express, postgreSQL, Google Cloud** <br>
-- 📫 How to reach me **samueldipta@gmail.com**
+- 🌱 I’m currently learning *Python, Next.js, Express, postgreSQL, Prisma ORM*<br>
+- 📫 How to reach me *samueldipta@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samuel_dipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_dipta" height="30" width="40" /></a>
